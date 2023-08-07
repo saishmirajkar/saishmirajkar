@@ -145,6 +145,12 @@
 I'm always up for a collab,
 But I'm not afraid to crack a joke or two.
 Let's have some fun and surf the hardest code-wave! <br><a href="mailto:saishmirajkar0@gmail.com">contact me by email</a>
+
+For any inquiries or feedback, please reach out to me:
+
+- Discord: https://discord.com/users/saish7147 
+- Twitter: https://twitter.com/saishmirajkar1
+- GitHub: https://github.com/saishmirajkar
   </td>
   <td width="50%" valign="top">
 
